@@ -57,4 +57,4 @@ FROM ubuntu:22.04
 ‎     "--IdentityProvider.token=", \
 ‎     "--ServerApp.password=", \
 ‎     "--ServerApp.open_browser=False", \
-‎     "--ServerApp.port_retries=0"]```
+‎     "--ServerApp.port_retries=0"]
